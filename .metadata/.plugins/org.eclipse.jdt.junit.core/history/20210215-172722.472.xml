@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="firstUnitTest" project="firstUnitTest" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="mx.tec.lab.FirstUnitTestApplicationTests" time="0.214" displayname="FirstUnitTestApplicationTests" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.FirstUnitTestApplicationTests]">
+    <testcase name="simpleTest" classname="mx.tec.lab.FirstUnitTestApplicationTests" time="0.194" displayname="simpleTest()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.FirstUnitTestApplicationTests]/[method:simpleTest()]"/>
+    <testcase name="otherSimpleTest" classname="mx.tec.lab.FirstUnitTestApplicationTests" time="0.005" displayname="otherSimpleTest()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.FirstUnitTestApplicationTests]/[method:otherSimpleTest()]"/>
+    <testcase name="contextLoads" classname="mx.tec.lab.FirstUnitTestApplicationTests" time="0.015" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:mx.tec.lab.FirstUnitTestApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
